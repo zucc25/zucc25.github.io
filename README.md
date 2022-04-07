@@ -8,3 +8,5 @@ Genshin Impact is an action role-playing game developed by Chinese developer miH
 ## Some Genshin Characters I have
 
 ### Ganyu
+![](goneyou.png)
+Ganyu is a Bow user
