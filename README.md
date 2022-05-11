@@ -13,4 +13,8 @@ Ganyu is a playable Cryo character in Genshin Impact. She is a half-qilin Adeptu
 
 ### Zhongli
 Zhongli is a playable Geo character in Genshin Impact. He is a consultant of the Wangsheng Funeral Parlor. He is later revealed to be the current vessel of the Geo Archon, Morax, who has decided to experience the world from the perspective of a mortal.
-![]
+![](jhonglee.png)
+
+### Eula
+Eula is a playable Cryo character in Genshin Impact. A descendant of the infamous and tyrannical Lawrence Clan, Eula is the captain of the Reconnaissance Company with the Knights of Favonius.
+![](eoola.png)
